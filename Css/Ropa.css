@@ -1,0 +1,18 @@
+*
+{
+   font-family:  verdana ;
+   color: floralwhite;
+}
+h1
+{
+    text-align: center;
+}
+body
+{
+    background: url(Dota.jpg);
+    background-size: 100%;
+}
+img 
+{
+    width: 20%;
+}

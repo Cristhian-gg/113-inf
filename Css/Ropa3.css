@@ -1,0 +1,12 @@
+* {
+    font-family: verdana;
+    color: floralwhite;
+}
+body {
+    background: url(Ti.jpg);
+    background-size: 109%;
+}
+img{
+    height: 50%;
+    width: 35%;
+}

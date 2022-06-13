@@ -1,0 +1,12 @@
+*{
+    font-family: Verdana;
+    color: floralwhite;
+}
+body {
+    background: url(Sven.jpg);
+    background-size: 100%;
+}
+img{
+    height: 40%;
+    width: 30%;
+}

@@ -1,0 +1,24 @@
+* {
+    font-family: verdana;
+    color: floralwhite;
+}
+body {
+    background-color: black;
+}
+img
+{
+    height: 60%;
+    width: 100%;
+}
+#Cont1
+{
+    background-color: chocolate;
+}
+#Cont2
+{
+    background-color: limegreen;
+}
+#Cont3
+{
+    background-color: dodgerblue;
+}
